@@ -26,6 +26,6 @@
 
 #### Useful Tips:
 1. You can use geo-location services like [http://ip-api.com/docs/](http://ip-api.com/docs/) to return the actual location of the IP-address.
-2. Additionally you could use the [https://www.mapbox.com/](MAPBOX API) to visualize the locations on a map. 
+2. Additionally you could use the [MAPBOX API](https://www.mapbox.com/) to visualize the locations on a map. 
 
 
